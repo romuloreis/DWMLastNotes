@@ -20,6 +20,19 @@ Dúvidas ou sugestões? rrdoliveira@senacrs.com.br
   - Sexta Etapa: [Cidades Atendidas](https://github.com/romuloreis/DWDM/blob/master/sexta-etapa.md)
   - Sétima Etapa: [Depoimentos](https://github.com/romuloreis/DWDM/blob/master/setima-etapa.md)
   - Oitava Etapa: [Rodapé](https://github.com/romuloreis/DWDM/blob/master/oitava-etapa.md)
+  
+### O site construido seguindo os passos acima, ficará similar ao site ilustrado a seguir:
+  
+  ![Image 01](/assets/sp1.png)
+  ![Image 02](/assets/sp2.png)
+  ![Image 03](/assets/sp3.png)
+  ![Image 04](/assets/sp4.png)
+  ![Image 05](/assets/sp5.png)
+  ![Image 06](/assets/sp6.png)
+  ![Image 07](/assets/sp7.png)
+  
+  ## Tornando o site responsivo
+  
   - [Media Queries - Tornando o site responsivo! Finalmente!](https://github.com/romuloreis/DWDM/blob/master/mediaqueries.md)
   - [Dicas para suportar multiplos navegadores](https://github.com/romuloreis/DWDM/blob/master/dicas_navegadores.md)
   - [Sticky Navigation](https://github.com/romuloreis/DWDM/blob/master/sticky_navigation.md)
