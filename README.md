@@ -11,7 +11,7 @@ Dúvidas ou sugestões? rrdoliveira@senacrs.com.br
 
 ## One-page web
 
-  - [Documentação](https://github.com/romuloreis/DWDM/blob/master/documento%207.md)
+  - [Documentação](docs/documento7.md)
   - Primeira Etapa: [Preparação da estrutura do projeto](https://github.com/romuloreis/DWDM/blob/master/primeira-etapa.md)
   - Segunda Etapa: [Hero Header](https://github.com/romuloreis/DWDM/blob/master/segunda-etapa.md)
   - Terceira Etapa: [Features](https://github.com/romuloreis/DWDM/blob/master/terceira-etapa.md)
