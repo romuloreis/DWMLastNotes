@@ -17,17 +17,20 @@
 ## Estrutura final
  Você deverá ter a seguinte estrutura de pastas:
  
-**projetonoprato**
-  - resources
-    - css
-      - img
-    - img
-    - js
-    - data
-  - vendors
-    - css
-    - fonts
-    - js
+ ```
+projetonoprato
+│   ├── resources
+│   │   ├── css
+│   │   │   └── img
+│   │   ├── data
+│   │   ├── img
+│   │   └── js
+│   └── vendors
+│       ├── css
+│       │   └── img
+│       ├── fonts
+│       └── js
+```
 
 ## Recursos externos
 Para corrigir erros gerados pela falta de padrão entre os navegadores, baixe a última versão do normalize css do [repositório oficial](https://github.com/necolas/normalize.css/). Por ser um código externo, deve ser salvo no diretório vendors/css.
