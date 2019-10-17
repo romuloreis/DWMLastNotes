@@ -40,6 +40,7 @@ Dúvidas ou sugestões? rrdoliveira@senacrs.com.br
   - [Menu Responsivo - material externo](https://css-tricks.com/convert-menu-to-dropdown/)
   - [Exemplos de menus responsivos](https://1stwebdesigner.com/code-snippets-responsive-navigation-menu/)
   - [Smooth Scrolling](https://css-tricks.com/snippets/jquery/smooth-scrolling/)
+  - [Smooth Scrolling - código base](assets/smoothscrolling.md)
 
 ## Links úteis
   - Editor de imagens online: [iloveimg](https://www.iloveimg.com/)
