@@ -51,3 +51,4 @@ Dúvidas ou sugestões? rrdoliveira@senacrs.com.br
   - Compressores de script: [cssminifier](https://cssminifier.com/), [minifier](https://www.minifier.org/)
   - Wireframes: [Figma](https://www.figma.com/), [Draw.io](https://www.draw.io/), [NinjaMock](https://ninjamock.com/), [Adobe XD](https://www.adobe.com/br/products/xd.html)
   - Criar notas online: [donpad](http://dontpad.com/)
+  - JQuery no servicor do google https://developers.google.com/speed/libraries/#jquery
