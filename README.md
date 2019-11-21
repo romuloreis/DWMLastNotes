@@ -59,3 +59,16 @@ Dúvidas ou sugestões? rrdoliveira@senacrs.com.br
  - [meta tags - OpenGRapth - Facebook](https://tableless.com.br/utilizando-meta-tags-facebook/)
  - [meta tags - redes sociais](https://rockcontent.com/blog/meta-tags-para-redes-sociais/)
  
+ - [Trabalhando com imagens](https://www.w3schools.com/css/css3_images.asp)
+ - [Grid e imagens](https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df)
+ 
+ - [imagens responsivas](https://css-tricks.com/planning-for-responsive-images/)
+ - [img 2](https://developer.mozilla.org/pt-BR/docs/Aprender/HTML/Multimedia_and_embedding/Responsive_images)
+ - [img 3](https://internetingishard.com/html-and-css/responsive-images/)
+
+- [haisdj](https://webdesign.tutsplus.com/pt/tutorials/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015)
+- [outra abordagem](https://www.freecodecamp.org/news/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5/)
+ - [Soluções secundárias](https://tableless.com.br/imagens-responsivas-de-alta-performance/)
+ - [Grupo de trabalho](https://responsiveimages.org/)
+ 
+ 
