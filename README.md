@@ -53,22 +53,29 @@ Dúvidas ou sugestões? rrdoliveira@senacrs.com.br
   - Criar notas online: [donpad](http://dontpad.com/)
   - JQuery no servicor do google https://developers.google.com/speed/libraries/#jquery
   
-## Tags interessantes
- - [meta tags - artigo 1](https://www.devmedia.com.br/html-meta-tags-entendendo-o-uso-de-meta-tags/30328)
- - [meta tags - artigo 2](https://www.w3schools.com/tags/tag_meta.asp)
+## Tópicos interessantes
+
+  **Meta Tags**
+
+ - [meta tags - resumido](https://www.devmedia.com.br/html-meta-tags-entendendo-o-uso-de-meta-tags/30328)
+ - [meta tags - consulta rápida](https://www.w3schools.com/tags/tag_meta.asp)
+ 
+  **Meta Tags e Redes Sociais**
+  
  - [meta tags - OpenGRapth - Facebook](https://tableless.com.br/utilizando-meta-tags-facebook/)
  - [meta tags - redes sociais](https://rockcontent.com/blog/meta-tags-para-redes-sociais/)
  
- - [Trabalhando com imagens](https://www.w3schools.com/css/css3_images.asp)
- - [Grid e imagens](https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df)
+ **Efeitos em imagens e imagens responsivas**
  
+ - [Dicas para trabalhar com imagens](https://www.w3schools.com/css/css3_images.asp)
+ - [Grid e imagens](https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df)
  - [imagens responsivas](https://css-tricks.com/planning-for-responsive-images/)
- - [img 2](https://developer.mozilla.org/pt-BR/docs/Aprender/HTML/Multimedia_and_embedding/Responsive_images)
- - [img 3](https://internetingishard.com/html-and-css/responsive-images/)
+ - [imagens responsivas e com desempenho](https://developer.mozilla.org/pt-BR/docs/Aprender/HTML/Multimedia_and_embedding/Responsive_images)
+ - [imagens responsivas e com desempenho + tela de retina](https://internetingishard.com/html-and-css/responsive-images/)
 
-- [haisdj](https://webdesign.tutsplus.com/pt/tutorials/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015)
-- [outra abordagem](https://www.freecodecamp.org/news/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5/)
- - [Soluções secundárias](https://tableless.com.br/imagens-responsivas-de-alta-performance/)
+- [Dicas Rápidas - Picture](https://webdesign.tutsplus.com/pt/tutorials/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015)
+- [Dicas Rápidas - Picture - inglês](https://www.freecodecamp.org/news/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5/)
+ - [Avançado](https://tableless.com.br/imagens-responsivas-de-alta-performance/)
  - [Grupo de trabalho](https://responsiveimages.org/)
  
  
