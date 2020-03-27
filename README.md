@@ -1,4 +1,4 @@
-# Material de apoio e atividades da cadeira de desenvolvimento web para dispositivos móveis (DWDM)
+# Material de apoio e atividades da cadeira de desenvolvimento web para dispositivos móveis (DWM)
 
 Olá, 
 Ao seguir os passos listados abaixo, você terá sua primeira página web responsiva para adicionar ao seu portifólio.
